@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "from A to Z",
+  "base_artist": "AZKi",
+  "createdAt": "2026-01-07T05:22:55.355095Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "from A to Z",
+      "artist": "AZKi",
+      "has_synced": true,
+      "path": "select/01_from_A_to_Z_AZKi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Unite! From A To Z☆",
+      "artist": "Pastel＊Palettes",
+      "has_synced": false,
+      "path": "select/02_Unite!_From_A_To_Z☆_Pastel_Palettes.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shoppin' From A to Z",
+      "artist": "Toni Basil",
+      "has_synced": false,
+      "path": "select/03_Shoppin'_From_A_to_Z_Toni_Basil.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shoppin’ From A to Z",
+      "artist": "Toni Basil",
+      "has_synced": false,
+      "path": "select/04_Shoppin’_From_A_to_Z_Toni_Basil.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Unite! From A To Z",
+      "artist": "Pastel*Palettes",
+      "has_synced": false,
+      "path": "select/05_Unite!_From_A_To_Z_Pastel_Palettes.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Unite! From A To Z (instrumental)",
+      "artist": "Pastel＊Palettes",
+      "has_synced": false,
+      "path": "select/06_Unite!_From_A_To_Z_(instrumental)_Pastel_Palettes.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "from A to Z",
+      "artist": "AZKi",
+      "has_synced": false,
+      "path": "select/pl_01_from_A_to_Z_AZKi.txt"
+    }
+  ]
+}
